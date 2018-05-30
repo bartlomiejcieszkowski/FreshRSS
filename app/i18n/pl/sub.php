@@ -27,7 +27,7 @@ return array(
 			'password' => 'Hasło HTTP',
 			'username' => 'Użytkownik HTTP',
 		),
-		'css_help' => 'Pobiera przycięte kanały RSS (uwaga, zajmuje więcej czasu!)'
+		'css_help' => 'Pobiera przycięte kanały RSS (uwaga, zajmuje więcej czasu!)',
 		'css_path' => 'Scieżka do CSS artykułow na oryginalnej stronie',
 		'description' => 'Opis',
 		'empty' => 'Ten strumień jest pusty. Upewnij się, że jest wciąż utrzymywany.',
