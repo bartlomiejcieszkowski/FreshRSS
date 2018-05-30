@@ -3,7 +3,7 @@
 return array(
 	'action' => array(
 		'actualize' => 'Aktualizuj',
-		'back_to_rss_feeds' => '← Cofnij do twoich strumieni RSS',
+		'back_to_rss_feeds' => '← Cofnij do twoich kanałów RSS',
 		'cancel' => 'Anuluj',
 		'create' => 'Stwórz',
 		'disable' => 'Wyłącz',
