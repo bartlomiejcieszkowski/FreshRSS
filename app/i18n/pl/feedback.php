@@ -87,7 +87,7 @@ return array(
 	'update' => array(
 		'can_apply' => 'FreshRSS będzie teraz aktualizowany do <strong>wersji %s</strong>.',
 		'error' => 'Proces aktualizacji napotkał błąd: %s',
-		'file_is_nok' => 'Nowa <strong>wersja %s</strong> dostępna. Wpierw sprawdź uprawnienia do folderu <em>%s</em>, serwer HTTP musi mieć uprawnienia zapisu do niego',
+		'file_is_nok' => 'Nowa <strong>wersja %s</strong> dostępna. Najpierw sprawdź uprawnienia do folderu <em>%s</em>, serwer HTTP musi mieć uprawnienia zapisu do niego',
 		'finished' => 'Aktualizacja zakończona!',
 		'none' => 'Brak aktualizacji',
 		'server_not_found' => 'Nie można znaleźć serwera aktualizacji. [%s]',
