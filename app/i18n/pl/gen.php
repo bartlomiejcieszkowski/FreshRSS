@@ -134,7 +134,7 @@ return array(
 		'about' => 'O FreshRSS',
 		'admin' => 'Administracja',
 		'archiving' => 'Archiwizacja',
-		'authentication' => 'Autentykacja',
+		'authentication' => 'Uwierzytelnianie',
 		'check_install' => 'Sprawdzenie instalacji',
 		'configuration' => 'Konfiguracja',
 		'display' => 'Wyświetlanie',

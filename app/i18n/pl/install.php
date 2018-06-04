@@ -10,7 +10,7 @@ return array(
 	),
 	'auth' => array(
 		'form' => 'Formularz Web (tradycjny, wymaga JavaScriptu)',
-		'http' => 'HTTP (dla zaawansowanych użytkowników z HTTPS) HTTP (for advanced users with HTTPS)',
+		'http' => 'HTTP (dla zaawansowanych użytkowników z HTTPS)',
 		'none' => 'Brak (niebezpieczne)',
 		'password_form' => 'Hasło<br /><small>(dla logowania przez formularz Webowy)</small>',
 		'password_format' => 'Conajmniej 7 znaków',
